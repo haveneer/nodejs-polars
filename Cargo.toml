@@ -28,7 +28,7 @@ features = [
   "json",
   "dynamic_groupby",
   "zip_with",
-  "simd",
+#  "simd", # this feature requires nightly
   "lazy",
   "strings",
   "temporal",
